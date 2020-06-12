@@ -1,0 +1,7 @@
+S.No.,Machine Serial No.,HostID,Using Latest Kernel Version ,Current Root User is Root or Not,Logs Maintained,Auto Play Enabled        (Yes or No),Auto Run Enabled        (Yes or No),DHCP Enabled  (Yes or No),Ethernet Card Activated     (Yes or No),Used Blank Password for Login,Used blank password for Screen saver  ,OS Hardening settings Implemented,Used Pirated Software (Yes/No),Applied latest service pack (yes/no),System's            date and time correct (yes/no) ,Antivirus     Installed (Yes/No),Antivirus Updated (Yes/No),Firewall Status On   (Yes/No),In How many days last Password Change ,SSH Service Maintained,Vulnerable Packages Existing,,
+1,Machine 1,,,,,,,,,,,,,,,,,,,,,,
+2,Machine 2,,,,,,,,,,,,,,,,,,,,,,
+3,Machine 3,,,,,,,,,,,,,,,,,,,,,,
+4,Machine 4,,,,,,,,,,,,,,,,,,,,,,
+5,Machine 5,,,,,,,,,,,,,,,,,,,,,,
+6,Machine 6,,,,,,,,,,,,,,,,,,,,,,
